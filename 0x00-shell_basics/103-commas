@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -cmla
+ls -map
