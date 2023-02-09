@@ -1,8 +1,0 @@
-#!/bin/bash
-#
-# School magic file
-#
-# Magic number description:
-#   0	string		SCHOOL	School data files
-
-0 string SCHOOL	School data files
