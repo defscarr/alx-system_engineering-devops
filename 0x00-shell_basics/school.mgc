@@ -1,2 +1,8 @@
-0 string SCHOOL School data
-!:mime School
+#!/usr/bin/env python
+#
+# School magic file
+#
+# Magic number description:
+#   0	string		SCHOOL	School data files
+
+0	string		SCHOOL	School data files
